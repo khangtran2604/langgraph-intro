@@ -1,0 +1,10 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "simple_graph": "./simple_graph.py:graph",
+    "llm_with_tool": "./llm_with_tool.py:graph"
+  },
+  "env": "./.env",
+  "python_version": "3.13",
+  "dependencies": ["."]
+}

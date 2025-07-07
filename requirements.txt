@@ -1,0 +1,90 @@
+backports.tarfile==1.2.0
+dotenv==0.9.9
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+langchain-community==0.3.27
+langchain-openai==0.3.27
+langgraph-api==0.2.78
+langgraph-cli==0.3.3
+platformdirs==4.2.2
+tomli==2.0.1
+# aiohappyeyeballs==2.6.1 # Installed as dependency for aiohttp
+# aiohttp==3.12.13 # Installed as dependency for langchain-community
+# aiosignal==1.4.0 # Installed as dependency for aiohttp
+# annotated-types==0.7.0 # Installed as dependency for pydantic
+# anyio==4.9.0 # Installed as dependency for httpx, openai, sse-starlette, starlette, watchfiles
+# attrs==25.3.0 # Installed as dependency for aiohttp
+# autocommand==2.2.2 # Installed as dependency for jaraco.text
+# blockbuster==1.5.24 # Installed as dependency for langgraph-runtime-inmem
+# certifi==2025.6.15 # Installed as dependency for httpcore, httpx, requests
+# cffi==1.17.1 # Installed as dependency for cryptography
+# charset-normalizer==3.4.2 # Installed as dependency for requests
+# click==8.2.1 # Installed as dependency for langgraph-cli, uvicorn
+# cloudpickle==3.1.1 # Installed as dependency for langgraph-api
+# cryptography==44.0.3 # Installed as dependency for langgraph-api
+# dataclasses-json==0.6.7 # Installed as dependency for langchain-community
+# distro==1.9.0 # Installed as dependency for openai
+# forbiddenfruit==0.1.4 # Installed as dependency for blockbuster
+# frozenlist==1.7.0 # Installed as dependency for aiohttp, aiosignal
+# h11==0.16.0 # Installed as dependency for httpcore, uvicorn
+# httpcore==1.0.9 # Installed as dependency for httpx
+# httpx==0.28.1 # Installed as dependency for langgraph-api, langgraph-sdk, langsmith, openai
+# httpx-sse==0.4.1 # Installed as dependency for langchain-community
+# idna==3.10 # Installed as dependency for anyio, httpx, requests, yarl
+# inflect==7.3.1 # Installed as dependency for jaraco.text
+# jaraco.context==5.3.0 # Installed as dependency for jaraco.text
+# jaraco.functools==4.0.1 # Installed as dependency for jaraco.text
+# jaraco.text==3.12.1 # Installed as dependency for jaraco.collections
+# jiter==0.10.0 # Installed as dependency for openai
+# jsonpatch==1.33 # Installed as dependency for langchain-core
+# jsonpointer==3.0.0 # Installed as dependency for jsonpatch
+# jsonschema-rs==0.29.1 # Installed as dependency for langgraph-api
+# langchain==0.3.26 # Installed as dependency for langchain-community
+# langchain-core==0.3.68 # Installed as dependency for langchain, langchain-community, langchain-openai, langchain-text-splitters, langgraph, langgraph-api, langgraph-checkpoint, langgraph-prebuilt
+# langchain-text-splitters==0.3.8 # Installed as dependency for langchain
+# langgraph==0.5.1 # Installed as dependency for langgraph-api, langgraph-runtime-inmem
+# langgraph-checkpoint==2.1.0 # Installed as dependency for langgraph, langgraph-api, langgraph-prebuilt, langgraph-runtime-inmem
+# langgraph-prebuilt==0.5.2 # Installed as dependency for langgraph
+# langgraph-runtime-inmem==0.3.4 # Installed as dependency for langgraph-api
+# langgraph-sdk==0.1.72 # Installed as dependency for langgraph, langgraph-api, langgraph-cli
+# langsmith==0.4.4 # Installed as dependency for langchain, langchain-community, langchain-core, langgraph-api
+# marshmallow==3.26.1 # Installed as dependency for dataclasses-json
+# more-itertools==10.3.0 # Installed as dependency for inflect, jaraco.functools, jaraco.text
+# multidict==6.6.3 # Installed as dependency for aiohttp, yarl
+# mypy-extensions==1.1.0 # Installed as dependency for typing-inspect
+# numpy==2.3.1 # Installed as dependency for langchain-community
+# openai==1.93.0 # Installed as dependency for langchain-openai
+# orjson==3.10.18 # Installed as dependency for langgraph-api, langgraph-sdk, langsmith
+# ormsgpack==1.10.0 # Installed as dependency for langgraph-checkpoint
+# packaging==24.2 # Installed as dependency for langchain-core, langsmith, marshmallow
+# propcache==0.3.2 # Installed as dependency for aiohttp, yarl
+# pycparser==2.22 # Installed as dependency for cffi
+# pydantic==2.11.7 # Installed as dependency for langchain, langchain-core, langgraph, langsmith, openai, pydantic-settings
+# pydantic-core==2.33.2 # Installed as dependency for pydantic
+# pydantic-settings==2.10.1 # Installed as dependency for langchain-community
+# pyjwt==2.10.1 # Installed as dependency for langgraph-api
+# python-dotenv==1.1.1 # Installed as dependency for dotenv, pydantic-settings
+# pyyaml==6.0.2 # Installed as dependency for langchain, langchain-community, langchain-core
+# regex==2024.11.6 # Installed as dependency for tiktoken
+# requests==2.32.4 # Installed as dependency for langchain, langchain-community, langsmith, requests-toolbelt, tiktoken
+# requests-toolbelt==1.0.0 # Installed as dependency for langsmith
+# sniffio==1.3.1 # Installed as dependency for anyio, openai
+# sqlalchemy==2.0.41 # Installed as dependency for langchain, langchain-community
+# sse-starlette==2.1.3 # Installed as dependency for langgraph-api, langgraph-runtime-inmem
+# starlette==0.47.1 # Installed as dependency for langgraph-api, langgraph-runtime-inmem, sse-starlette
+# structlog==25.4.0 # Installed as dependency for langgraph-api, langgraph-runtime-inmem
+# tenacity==9.1.2 # Installed as dependency for langchain-community, langchain-core, langgraph-api
+# tiktoken==0.9.0 # Installed as dependency for langchain-openai
+# tqdm==4.67.1 # Installed as dependency for openai
+# truststore==0.10.1 # Installed as dependency for langgraph-api
+# typeguard==4.3.0 # Installed as dependency for inflect
+# typing-extensions==4.14.1 # Installed as dependency for langchain-core, openai, pydantic, pydantic-core, sqlalchemy, typeguard, typing-inspect, typing-inspection
+# typing-inspect==0.9.0 # Installed as dependency for dataclasses-json
+# typing-inspection==0.4.1 # Installed as dependency for pydantic, pydantic-settings
+# urllib3==2.5.0 # Installed as dependency for requests
+# uvicorn==0.35.0 # Installed as dependency for langgraph-api, sse-starlette
+# watchfiles==1.1.0 # Installed as dependency for langgraph-api
+# xxhash==3.5.0 # Installed as dependency for langgraph
+# yarl==1.20.1 # Installed as dependency for aiohttp
+# zipp==3.19.2 # Installed as dependency for importlib-metadata
+# zstandard==0.23.0 # Installed as dependency for langsmith
