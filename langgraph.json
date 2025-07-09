@@ -4,7 +4,8 @@
     "simple_graph": "./simple_graph.py:graph",
     "llm_with_tool": "./llm_with_tool.py:graph",
     "llm_with_tool_router": "./llm_with_tool_router.py:graph",
-    "agent": "./agent.py:graph"
+    "agent": "./agent.py:graph",
+    "memory_agent": "./memory_agent.py:graph"
   },
   "env": "./.env",
   "python_version": "3.13",
